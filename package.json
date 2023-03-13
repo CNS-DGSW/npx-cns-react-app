@@ -1,0 +1,22 @@
+{
+  "name": "cns-react-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CNS-DGSW/CNS-Front-BoilerPlate.git"
+  },
+  "bin": {
+    "cns-react-app": "bin/cns-react-npx.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
